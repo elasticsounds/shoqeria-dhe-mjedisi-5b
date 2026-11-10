@@ -1,0 +1,382 @@
+{
+  "barazi": {
+    "word": "barazi",
+    "definition": "Gjendje kur të gjithë trajtohen njësoj dhe kanë të njëjtat të drejta.",
+    "variations": [
+      "barazi",
+      "barazia"
+    ],
+    "emoji": "⚖️🤝",
+    "id": "gl001"
+  },
+  "bashkëjetesë": {
+    "word": "bashkëjetesë",
+    "definition": "jetesë së bashku me të tjerët në paqe, me respekt dhe mirëkuptim",
+    "variations": [
+      "bashkëjetesa"
+    ],
+    "emoji": "🤝🏡",
+    "id": "gl002"
+  },
+  "demokratik": {
+    "word": "demokratik",
+    "definition": "që lidhet me demokracinë, ku njerëzit kanë të drejta dhe marrin pjesë në vendime",
+    "variations": [
+      "demokratike",
+      "demokratikë",
+      "demokratike"
+    ],
+    "emoji": "🗳️⚖️",
+    "id": "gl003"
+  },
+  "diasporë": {
+    "word": "diasporë",
+    "definition": "njerëzit e një vendi që jetojnë në vende të tjera, por ruajnë lidhje me atdheun e tyre",
+    "variations": [
+      "diaspora"
+    ],
+    "emoji": "✈️🌍🏠",
+    "id": "gl004"
+  },
+  "diskriminim": {
+    "word": "diskriminim",
+    "definition": "Trajtim i pabarabartë i një personi ose grupi, duke i mohuar të drejta që të tjerët i kanë.",
+    "variations": [
+      "diskriminim",
+      "diskriminimi",
+      "diskriminuar"
+    ],
+    "emoji": "🚫👩⚖️",
+    "id": "gl005"
+  },
+  "e drejtë": {
+    "word": "e drejtë",
+    "definition": "Diçka që i takon një njeriu sipas rregullave dhe ligjit.",
+    "variations": [
+      "e drejtë",
+      "të drejta",
+      "të drejtën"
+    ],
+    "emoji": "⚖️✅",
+    "id": "gl006"
+  },
+  "fqinj": {
+    "word": "fqinj",
+    "definition": "shtet ose person që ndodhet afër tjetrit",
+    "variations": [
+      "fqinjët",
+      "fqinje",
+      "fqinjtë"
+    ],
+    "emoji": "🏘️🗺️",
+    "id": "gl007"
+  },
+  "hise": {
+    "word": "hise",
+    "definition": "Pjesa që i takon secilit kur ndahet një pasuri ose një e tërë.",
+    "variations": [
+      "hise",
+      "hisja",
+      "hisen"
+    ],
+    "emoji": "➗🏡",
+    "id": "gl008"
+  },
+  "identitet": {
+    "word": "identitet",
+    "definition": "Ajo që tregon se kush je, nga vjen dhe me cilin grup ndihesh i lidhur.",
+    "variations": [
+      "identitet",
+      "identiteti",
+      "identitetin"
+    ],
+    "emoji": "🪪👤",
+    "id": "gl009"
+  },
+  "institucion": {
+    "word": "institucion",
+    "definition": "organizatë ose vend që ka detyra të caktuara për shoqërinë dhe shtetin",
+    "variations": [
+      "institucione",
+      "institucioni",
+      "institucionet"
+    ],
+    "emoji": "🏛️📋",
+    "id": "gl010"
+  },
+  "Kanun": {
+    "word": "Kanun",
+    "definition": "Tërësi rregullash të vjetra zakonore, të pashkruara, që janë trashëguar brez pas brezi.",
+    "variations": [
+      "Kanun",
+      "Kanuni",
+      "Kanunit"
+    ],
+    "emoji": "📜🏛️",
+    "id": "gl011"
+  },
+  "komunitet": {
+    "word": "komunitet",
+    "definition": "grup njerëzish që jetojnë së bashku ose kanë diçka të përbashkët, si gjuha, kultura ose traditat",
+    "variations": [
+      "komunitete",
+      "komuniteti",
+      "komunitetet"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl012"
+  },
+  "kufi": {
+    "word": "kufi",
+    "definition": "vijë që ndan një shtet ose një vend nga një tjetër",
+    "variations": [
+      "kufij",
+      "kufiri",
+      "kufitare"
+    ],
+    "emoji": "📍🛂",
+    "id": "gl013"
+  },
+  "kulturë": {
+    "word": "kulturë",
+    "definition": "mënyra si jeton një popull, duke përfshirë gjuhën, zakonet, veshjet, ushqimin dhe festat",
+    "variations": [
+      "kultura",
+      "kulturat",
+      "kulturore"
+    ],
+    "emoji": "🎭📚🎶",
+    "id": "gl014"
+  },
+  "Kushtetutë": {
+    "word": "Kushtetutë",
+    "definition": "ligji më i lartë i një shteti, që tregon si funksionon ai dhe çfarë të drejtash kanë qytetarët",
+    "variations": [
+      "Kushtetuta",
+      "Kushtetutën"
+    ],
+    "emoji": "📜⚖️",
+    "id": "gl015"
+  },
+  "ligj": {
+    "word": "ligj",
+    "definition": "Rregull zyrtar që vendoset nga shteti dhe që duhet të zbatohet nga të gjithë.",
+    "variations": [
+      "ligj",
+      "ligje",
+      "ligjet"
+    ],
+    "emoji": "⚖️📘",
+    "id": "gl016"
+  },
+  "migrant": {
+    "word": "migrant",
+    "definition": "Njeri që largohet nga vendi i vet për të jetuar në një vend tjetër.",
+    "variations": [
+      "migrant",
+      "migrantë",
+      "migrantët"
+    ],
+    "emoji": "🧳🚶🌍",
+    "id": "gl017"
+  },
+  "mosmarrëveshje": {
+    "word": "mosmarrëveshje",
+    "definition": "Mospajtim mes njerëzve për një çështje ose problem.",
+    "variations": [
+      "mosmarrëveshje",
+      "mosmarrëveshjet"
+    ],
+    "emoji": "🗣️⚠️",
+    "id": "gl018"
+  },
+  "multietnik": {
+    "word": "multietnik",
+    "definition": "i përbërë nga shumë popuj ose grupe etnike të ndryshme",
+    "variations": [
+      "multietnike"
+    ],
+    "emoji": "🌐👥",
+    "id": "gl019"
+  },
+  "ndrikull": {
+    "word": "ndrikull",
+    "definition": "Grua e zgjedhur që ka rol të veçantë në pagëzim, si prind i dytë simbolik për fëmijën.",
+    "variations": [
+      "ndrikull",
+      "ndrikulla",
+      "ndrikullën"
+    ],
+    "emoji": "👩👶",
+    "id": "gl020"
+  },
+  "normë shoqërore": {
+    "word": "normë shoqërore",
+    "definition": "Rregull i sjelljes që ndihmon njerëzit të jetojnë dhe të sillen mirë me njëri-tjetrin në shoqëri.",
+    "variations": [
+      "normë shoqërore",
+      "norma shoqërore",
+      "normat shoqërore"
+    ],
+    "emoji": "📏👥",
+    "id": "gl021"
+  },
+  "nun": {
+    "word": "nun",
+    "definition": "Person i afërt ose i zgjedhur që ka rol të veçantë në një zakon si pagëzimi.",
+    "variations": [
+      "nun",
+      "nuni",
+      "nunin"
+    ],
+    "emoji": "👨🤝",
+    "id": "gl022"
+  },
+  "padrejtësi": {
+    "word": "padrejtësi",
+    "definition": "Veprim ose gjendje kur dikush nuk trajtohet në mënyrë të drejtë.",
+    "variations": [
+      "padrejtësi",
+      "padrejtësia"
+    ],
+    "emoji": "❌⚖️",
+    "id": "gl023"
+  },
+  "pagëzim": {
+    "word": "pagëzim",
+    "definition": "Ceremoni fetare me të cilën një fëmijë ose njeri pranohet në besim.",
+    "variations": [
+      "pagëzim",
+      "pagëzimi",
+      "pagëzimit"
+    ],
+    "emoji": "⛪👶",
+    "id": "gl024"
+  },
+  "pasuri": {
+    "word": "pasuri",
+    "definition": "Të mirat materiale që ka një njeri ose një familje.",
+    "variations": [
+      "pasuri",
+      "pasuria",
+      "pasuritë"
+    ],
+    "emoji": "💰🏡",
+    "id": "gl025"
+  },
+  "përkatësi kulturore": {
+    "word": "përkatësi kulturore",
+    "definition": "Lidhja që ka një njeri me kulturën, traditat dhe zakonet e grupit të vet.",
+    "variations": [
+      "përkatësi kulturore",
+      "përkatësia kulturore"
+    ],
+    "emoji": "🎭🌐",
+    "id": "gl026"
+  },
+  "pronë": {
+    "word": "pronë",
+    "definition": "Gjithçka që i përket dikujt, si shtëpia, toka ose sende të tjera.",
+    "variations": [
+      "pronë",
+      "prona",
+      "pronat"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl027"
+  },
+  "shkëmbim": {
+    "word": "shkëmbim",
+    "definition": "dhënie dhe marrje mes njerëzve ose vendeve, si ide, gjuhë, kultura apo gjëra të tjera",
+    "variations": [
+      "shkëmbime",
+      "shkëmbimi"
+    ],
+    "emoji": "🔄🤝",
+    "id": "gl028"
+  },
+  "shkuesi": {
+    "word": "shkuesi",
+    "definition": "Njeri që dikur ndërmjetësonte mes dy familjeve për fejesë ose martesë.",
+    "variations": [
+      "shkuesi",
+      "shkuesit"
+    ],
+    "emoji": "🤝💍",
+    "id": "gl029"
+  },
+  "shtet": {
+    "word": "shtet",
+    "definition": "vend i organizuar me kufij, ligje dhe institucione të veta",
+    "variations": [
+      "shtete",
+      "shteti",
+      "shtetet"
+    ],
+    "emoji": "🏳️🗺️",
+    "id": "gl030"
+  },
+  "shumetnik": {
+    "word": "shumetnik",
+    "definition": "ku jetojnë ose përfshihen shumë grupe etnike të ndryshme",
+    "variations": [
+      "shumetnike",
+      "shumetniteti"
+    ],
+    "emoji": "🌍👫🤝",
+    "id": "gl031"
+  },
+  "territor": {
+    "word": "territor",
+    "definition": "hapësira tokësore që i përket një shteti ose vendi",
+    "variations": [
+      "territori"
+    ],
+    "emoji": "🗺️📌",
+    "id": "gl032"
+  },
+  "traditë": {
+    "word": "traditë",
+    "definition": "zakon ose mënyrë veprimi që përcillet nga brezi në brez",
+    "variations": [
+      "tradita",
+      "traditat",
+      "traditë"
+    ],
+    "emoji": "🧵🏺",
+    "id": "gl033"
+  },
+  "trashëgimi": {
+    "word": "trashëgimi",
+    "definition": "Pasuria ose gjërat që kalojnë nga prindërit ose të afërmit te fëmijët pas tyre.",
+    "variations": [
+      "trashëgimi",
+      "trashëgimia",
+      "trashëgiminë"
+    ],
+    "emoji": "🏡📦",
+    "id": "gl034"
+  },
+  "trashëgimtar": {
+    "word": "trashëgimtar",
+    "definition": "Person që merr pasuri ose të drejta si trashëgimi.",
+    "variations": [
+      "trashëgimtar",
+      "trashëgimtarë",
+      "trashëgimtarët"
+    ],
+    "emoji": "👨‍👩‍👧📜",
+    "id": "gl035"
+  },
+  "zakon": {
+    "word": "zakon",
+    "definition": "mënyrë e njohur sjelljeje ose veprimi që ndiqet shpesh nga njerëzit",
+    "variations": [
+      "zakone",
+      "zakoni",
+      "zakonet"
+    ],
+    "emoji": "🔁👨‍👩‍👧‍👦",
+    "id": "gl036"
+  }
+}

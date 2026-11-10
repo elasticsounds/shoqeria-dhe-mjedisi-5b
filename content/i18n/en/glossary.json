@@ -1,0 +1,373 @@
+{
+  "equality": {
+    "word": "equality",
+    "definition": "A state in which everyone is treated the same and has the same rights.",
+    "variations": [
+      "barazi",
+      "barazia"
+    ],
+    "emoji": "⚖️🤝",
+    "id": "gl001"
+  },
+  "coexistence": {
+    "word": "coexistence",
+    "definition": "living together with others in peace, with respect and understanding",
+    "variations": [
+      "bashkëjetesa"
+    ],
+    "emoji": "🤝🏡",
+    "id": "gl002"
+  },
+  "democratic": {
+    "word": "democratic",
+    "definition": "related to democracy, where people have rights and take part in decisions",
+    "variations": [
+      "demokratike",
+      "demokratikë",
+      "demokratike"
+    ],
+    "emoji": "🗳️⚖️",
+    "id": "gl003"
+  },
+  "diaspora": {
+    "word": "diaspora",
+    "definition": "the people of a country who live in other countries but maintain ties with their homeland",
+    "variations": [
+      "diaspora"
+    ],
+    "emoji": "✈️🌍🏠",
+    "id": "gl004"
+  },
+  "discrimination": {
+    "word": "discrimination",
+    "definition": "Unequal treatment of a person or group, denying them rights that others have.",
+    "variations": [
+      "diskriminim",
+      "diskriminimi",
+      "diskriminuar"
+    ],
+    "emoji": "🚫👩⚖️",
+    "id": "gl005"
+  },
+  "right": {
+    "word": "right",
+    "definition": "Something that belongs to a person according to rules and the law.",
+    "variations": [
+      "e drejtë",
+      "të drejta",
+      "të drejtën"
+    ],
+    "emoji": "⚖️✅",
+    "id": "gl006"
+  },
+  "neighbor": {
+    "word": "neighbor",
+    "definition": "a state or person located near another",
+    "variations": [
+      "fqinjët",
+      "fqinje",
+      "fqinjtë"
+    ],
+    "emoji": "🏘️🗺️",
+    "id": "gl007"
+  },
+  "share": {
+    "word": "share",
+    "definition": "The part that belongs to each person when property or a whole is divided.",
+    "variations": [
+      "hise",
+      "hisja",
+      "hisen"
+    ],
+    "emoji": "➗🏡",
+    "id": "gl008"
+  },
+  "identity": {
+    "word": "identity",
+    "definition": "That which shows who you are, where you come from, and which group you feel connected to.",
+    "variations": [
+      "identitet",
+      "identiteti",
+      "identitetin"
+    ],
+    "emoji": "🪪👤",
+    "id": "gl009"
+  },
+  "institution": {
+    "word": "institution",
+    "definition": "an organization or place that has certain duties for society and the state",
+    "variations": [
+      "institucione",
+      "institucioni",
+      "institucionet"
+    ],
+    "emoji": "🏛️📋",
+    "id": "gl010"
+  },
+  "Kanun": {
+    "word": "Kanun",
+    "definition": "A set of old customary, unwritten rules that have been passed down from generation to generation.",
+    "variations": [
+      "Kanun",
+      "Kanuni",
+      "Kanunit"
+    ],
+    "emoji": "📜🏛️",
+    "id": "gl011"
+  },
+  "community": {
+    "word": "community",
+    "definition": "a group of people who live together or have something in common, such as language, culture, or traditions",
+    "variations": [
+      "komunitete",
+      "komuniteti",
+      "komunitetet"
+    ],
+    "emoji": "👥🏘️",
+    "id": "gl012"
+  },
+  "border": {
+    "word": "border",
+    "definition": "a line that separates one state or place from another",
+    "variations": [
+      "kufij",
+      "kufiri",
+      "kufitare"
+    ],
+    "emoji": "📍🛂",
+    "id": "gl013"
+  },
+  "culture": {
+    "word": "culture",
+    "definition": "the way a people live, including language, customs, clothing, food, and celebrations",
+    "variations": [
+      "kultura",
+      "kulturat",
+      "kulturore"
+    ],
+    "emoji": "🎭📚🎶",
+    "id": "gl014"
+  },
+  "Constitution": {
+    "word": "Constitution",
+    "definition": "the highest law of a state, which shows how it functions and what rights citizens have",
+    "variations": [
+      "Kushtetuta",
+      "Kushtetutën"
+    ],
+    "emoji": "📜⚖️",
+    "id": "gl015"
+  },
+  "law": {
+    "word": "law",
+    "definition": "An official rule established by the state and that must be obeyed by everyone.",
+    "variations": [
+      "ligj",
+      "ligje",
+      "ligjet"
+    ],
+    "emoji": "⚖️📘",
+    "id": "gl016"
+  },
+  "migrant": {
+    "word": "migrant",
+    "definition": "A person who leaves their own country to live in another country.",
+    "variations": [
+      "migrant",
+      "migrantë",
+      "migrantët"
+    ],
+    "emoji": "🧳🚶🌍",
+    "id": "gl017"
+  },
+  "dispute": {
+    "word": "dispute",
+    "definition": "Disagreement between people about an issue or problem.",
+    "variations": [
+      "mosmarrëveshje",
+      "mosmarrëveshjet"
+    ],
+    "emoji": "🗣️⚠️",
+    "id": "gl018"
+  },
+  "multiethnic": {
+    "word": "multiethnic",
+    "definition": "where many different ethnic groups live or are included",
+    "variations": [
+      "shumetnike",
+      "shumetniteti"
+    ],
+    "emoji": "🌍👫🤝",
+    "id": "gl031"
+  },
+  "godmother": {
+    "word": "godmother",
+    "definition": "A chosen woman who has a special role in baptism, as a symbolic second parent for the child.",
+    "variations": [
+      "ndrikull",
+      "ndrikulla",
+      "ndrikullën"
+    ],
+    "emoji": "👩👶",
+    "id": "gl020"
+  },
+  "social norm": {
+    "word": "social norm",
+    "definition": "A rule of behavior that helps people live and behave well with one another in society.",
+    "variations": [
+      "normë shoqërore",
+      "norma shoqërore",
+      "normat shoqërore"
+    ],
+    "emoji": "📏👥",
+    "id": "gl021"
+  },
+  "godparent": {
+    "word": "godparent",
+    "definition": "A close or chosen person who has a special role in a custom such as baptism.",
+    "variations": [
+      "nun",
+      "nuni",
+      "nunin"
+    ],
+    "emoji": "👨🤝",
+    "id": "gl022"
+  },
+  "injustice": {
+    "word": "injustice",
+    "definition": "An action or situation in which someone is not treated fairly.",
+    "variations": [
+      "padrejtësi",
+      "padrejtësia"
+    ],
+    "emoji": "❌⚖️",
+    "id": "gl023"
+  },
+  "baptism": {
+    "word": "baptism",
+    "definition": "A religious ceremony through which a child or person is accepted into the faith.",
+    "variations": [
+      "pagëzim",
+      "pagëzimi",
+      "pagëzimit"
+    ],
+    "emoji": "⛪👶",
+    "id": "gl024"
+  },
+  "wealth": {
+    "word": "wealth",
+    "definition": "The material goods that a person or a family has.",
+    "variations": [
+      "pasuri",
+      "pasuria",
+      "pasuritë"
+    ],
+    "emoji": "💰🏡",
+    "id": "gl025"
+  },
+  "cultural identity": {
+    "word": "cultural identity",
+    "definition": "The connection a person has with the culture, traditions, and customs of their group.",
+    "variations": [
+      "përkatësi kulturore",
+      "përkatësia kulturore"
+    ],
+    "emoji": "🎭🌐",
+    "id": "gl026"
+  },
+  "property": {
+    "word": "property",
+    "definition": "Everything that belongs to someone, such as a house, land, or other things.",
+    "variations": [
+      "pronë",
+      "prona",
+      "pronat"
+    ],
+    "emoji": "🏠📍",
+    "id": "gl027"
+  },
+  "exchange": {
+    "word": "exchange",
+    "definition": "giving and receiving between people or places, such as ideas, languages, cultures, or other things",
+    "variations": [
+      "shkëmbime",
+      "shkëmbimi"
+    ],
+    "emoji": "🔄🤝",
+    "id": "gl028"
+  },
+  "matchmaker": {
+    "word": "matchmaker",
+    "definition": "A person who in the past mediated between two families for an engagement or marriage.",
+    "variations": [
+      "shkuesi",
+      "shkuesit"
+    ],
+    "emoji": "🤝💍",
+    "id": "gl029"
+  },
+  "state": {
+    "word": "state",
+    "definition": "an organized country with its own borders, laws, and institutions",
+    "variations": [
+      "shtete",
+      "shteti",
+      "shtetet"
+    ],
+    "emoji": "🏳️🗺️",
+    "id": "gl030"
+  },
+  "territory": {
+    "word": "territory",
+    "definition": "the land area that belongs to a state or country",
+    "variations": [
+      "territori"
+    ],
+    "emoji": "🗺️📌",
+    "id": "gl032"
+  },
+  "tradition": {
+    "word": "tradition",
+    "definition": "a custom or way of acting that is passed down from generation to generation",
+    "variations": [
+      "tradita",
+      "traditat",
+      "traditë"
+    ],
+    "emoji": "🧵🏺",
+    "id": "gl033"
+  },
+  "inheritance": {
+    "word": "inheritance",
+    "definition": "The property or things that pass from parents or relatives to their children after them.",
+    "variations": [
+      "trashëgimi",
+      "trashëgimia",
+      "trashëgiminë"
+    ],
+    "emoji": "🏡📦",
+    "id": "gl034"
+  },
+  "heir": {
+    "word": "heir",
+    "definition": "A person who receives property or rights as an inheritance.",
+    "variations": [
+      "trashëgimtar",
+      "trashëgimtarë",
+      "trashëgimtarët"
+    ],
+    "emoji": "👨‍👩‍👧📜",
+    "id": "gl035"
+  },
+  "custom": {
+    "word": "custom",
+    "definition": "a familiar way of behaving or acting that is often followed by people",
+    "variations": [
+      "zakone",
+      "zakoni",
+      "zakonet"
+    ],
+    "emoji": "🔁👨‍👩‍👧‍👦",
+    "id": "gl036"
+  }
+}

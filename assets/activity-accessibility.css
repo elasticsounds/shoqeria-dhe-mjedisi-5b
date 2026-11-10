@@ -1,0 +1,32 @@
+/* The native radios are visually hidden; show keyboard focus on the answer card. */
+#content label.activity-option:has(input[type="radio"]:focus-visible) {
+  outline: 3px solid #164da5 !important;
+  outline-offset: 5px !important;
+}
+@media (forced-colors: active) {
+  #content label.activity-option:has(input[type="radio"]:focus-visible) {
+    outline-color: Highlight !important;
+  }
+}
+
+/* Narration adds spans inside the book's styled text. Keep their typography
+   identical to the surrounding text instead of the global span font. */
+#content [data-word-index],
+#content [data-word-indices] {
+  font-family: inherit;
+  font-size: inherit;
+  font-weight: inherit;
+  font-style: inherit;
+  line-height: inherit;
+  letter-spacing: inherit;
+}
+
+::highlight(adt-read-aloud) {
+  background-color: #fde047;
+  color: #000;
+}
+
+[data-sign-language-player] [role="button"]:focus-visible {
+  outline: 3px solid #76b8ff;
+  outline-offset: -3px;
+}
