@@ -4,7 +4,7 @@ Accessible digital textbook reader with Albanian and English interfaces, read al
 
 Read the book: https://elasticsounds.github.io/shoqeria-dhe-mjedisi-5b/
 
-The reader has 39 screens, including 25 activity screens. Eight supplied sign-language clips repeat in numbered order across the 33 screens from `pg008_sec001` onward.
+The complete reader has 249 screens and 117 activity screens. The book includes Albanian and English narration with Gemini 3.8 Flash TTS and the Kore voice. The 36 supplied sign-language videos follow the original section IDs and are available through the reader toolbar.
 
 ## Run locally
 

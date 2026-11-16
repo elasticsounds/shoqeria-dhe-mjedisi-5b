@@ -369,5 +369,167 @@
     ],
     "emoji": "🔁👨‍👩‍👧‍👦",
     "id": "gl036"
+  },
+  "amendment": {
+    "word": "Amendment",
+    "definition": "an addition containing a change to a law.",
+    "variations": [
+      "Amendment"
+    ],
+    "id": "gl101",
+    "emoji": ""
+  },
+  "attraction": {
+    "word": "Attraction",
+    "definition": "something that interests tourists.",
+    "variations": [
+      "Attraction"
+    ],
+    "id": "gl102",
+    "emoji": ""
+  },
+  "geothermal springs": {
+    "word": "Geothermal springs",
+    "definition": "mineral waters used for healing, including different therapeutic baths.",
+    "variations": [
+      "Geothermal springs"
+    ],
+    "id": "gl103",
+    "emoji": ""
+  },
+  "inexhaustible resources": {
+    "word": "Inexhaustible resources",
+    "definition": "resources that do not run out.",
+    "variations": [
+      "Inexhaustible resources"
+    ],
+    "id": "gl104",
+    "emoji": ""
+  },
+  "epidemic": {
+    "word": "Epidemic",
+    "definition": "an infectious disease that spreads quickly among people in a place.",
+    "variations": [
+      "Epidemic"
+    ],
+    "id": "gl105",
+    "emoji": ""
+  },
+  "canyon": {
+    "word": "Canyon",
+    "definition": "a usually deep, narrow landform created by the movement of water.",
+    "variations": [
+      "Canyon"
+    ],
+    "id": "gl108",
+    "emoji": ""
+  },
+  "food fair": {
+    "word": "Food fair",
+    "definition": "a fair about different foods, including their preparation and presentation.",
+    "variations": [
+      "Food fair"
+    ],
+    "id": "gl110",
+    "emoji": ""
+  },
+  "pandemic": {
+    "word": "Pandemic",
+    "definition": "when an infectious disease spreads globally, across almost the entire world.",
+    "variations": [
+      "Pandemic"
+    ],
+    "id": "gl111",
+    "emoji": ""
+  },
+  "local government": {
+    "word": "Local government",
+    "definition": "the municipal assembly, assembly members and the mayor.",
+    "variations": [
+      "Local government"
+    ],
+    "id": "gl112",
+    "emoji": ""
+  },
+  "central government": {
+    "word": "Central government",
+    "definition": "the Assembly of Kosovo, president, prime minister, ministers and members of the Assembly.",
+    "variations": [
+      "Central government"
+    ],
+    "id": "gl113",
+    "emoji": ""
+  },
+  "reduction": {
+    "word": "Reduction",
+    "definition": "making something smaller or less.",
+    "variations": [
+      "Reduction"
+    ],
+    "id": "gl114",
+    "emoji": ""
+  },
+  "recycling": {
+    "word": "Recycling",
+    "definition": "processing waste.",
+    "variations": [
+      "Recycling"
+    ],
+    "id": "gl115",
+    "emoji": ""
+  },
+  "reuse": {
+    "word": "Reuse",
+    "definition": "using waste again.",
+    "variations": [
+      "Reuse"
+    ],
+    "id": "gl116",
+    "emoji": ""
+  },
+  "sazan": {
+    "word": "Sazan",
+    "definition": "an island in Vlorë.",
+    "variations": [
+      "Sazan"
+    ],
+    "id": "gl117",
+    "emoji": ""
+  },
+  "awareness-raising": {
+    "word": "Awareness-raising",
+    "definition": "making people aware of an issue and encouraging them to respond to it.",
+    "variations": [
+      "Awareness-raising"
+    ],
+    "id": "gl118",
+    "emoji": ""
+  },
+  "tirq": {
+    "word": "Tirq",
+    "definition": "men's woollen trousers (traditional dress).",
+    "variations": [
+      "Tirq"
+    ],
+    "id": "gl120",
+    "emoji": ""
+  },
+  "craftsperson": {
+    "word": "Craftsperson",
+    "definition": "a skilled person who practises a craft.",
+    "variations": [
+      "Craftsperson"
+    ],
+    "id": "gl122",
+    "emoji": ""
+  },
+  "tourism development": {
+    "word": "Tourism development",
+    "definition": "developing a particular place to attract visitors.",
+    "variations": [
+      "Tourism development"
+    ],
+    "id": "gl123",
+    "emoji": ""
   }
 }

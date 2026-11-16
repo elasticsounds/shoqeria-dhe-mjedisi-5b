@@ -378,5 +378,167 @@
     ],
     "emoji": "🔁👨‍👩‍👧‍👦",
     "id": "gl036"
+  },
+  "amendament": {
+    "word": "Amendament",
+    "definition": "shtojcë që përmban një ndryshim të një ligji.",
+    "variations": [
+      "Amendament"
+    ],
+    "id": "gl101",
+    "emoji": ""
+  },
+  "atraksion": {
+    "word": "Atraksion",
+    "definition": "diçka që nxit interesin e turistëve.",
+    "variations": [
+      "Atraksion"
+    ],
+    "id": "gl102",
+    "emoji": ""
+  },
+  "burime gjeotermale": {
+    "word": "Burime gjeotermale",
+    "definition": "ujëra minerale shëruese, banjat e ndryshme për shërim.",
+    "variations": [
+      "Burime gjeotermale"
+    ],
+    "id": "gl103",
+    "emoji": ""
+  },
+  "burime të pashtershme": {
+    "word": "Burime të pashtershme",
+    "definition": "burime që nuk harxhohen.",
+    "variations": [
+      "Burime të pashtershme"
+    ],
+    "id": "gl104",
+    "emoji": ""
+  },
+  "epidemi": {
+    "word": "Epidemi",
+    "definition": "sëmundje ngjitëse që përhapet shpejt te njerëzit e një vendi.",
+    "variations": [
+      "Epidemi"
+    ],
+    "id": "gl105",
+    "emoji": ""
+  },
+  "kanion": {
+    "word": "Kanion",
+    "definition": "formë zakonisht e thellë dhe e ngushtë e relievit, që krijohet nga shpërndarja e ujit.",
+    "variations": [
+      "Kanion"
+    ],
+    "id": "gl108",
+    "emoji": ""
+  },
+  "panair kulinarik": {
+    "word": "Panair kulinarik",
+    "definition": "panair i ushqimeve të ndryshme (i përgatitjes, prezantimit etj.).",
+    "variations": [
+      "Panair kulinarik"
+    ],
+    "id": "gl110",
+    "emoji": ""
+  },
+  "pandemi": {
+    "word": "Pandemi",
+    "definition": "kur një sëmundje ngjitëse shpërndahet në nivel global (pothuajse në tërë botën).",
+    "variations": [
+      "Pandemi"
+    ],
+    "id": "gl111",
+    "emoji": ""
+  },
+  "pushtet lokal": {
+    "word": "Pushtet lokal",
+    "definition": "kuvendi komunal, asamblistët, kryetari i komunës.",
+    "variations": [
+      "Pushtet lokal"
+    ],
+    "id": "gl112",
+    "emoji": ""
+  },
+  "pushteti qendror": {
+    "word": "Pushteti qendror",
+    "definition": "Kuvendi i Kosovës, presidenti/ja, kryeministri/ja, ministrat/et dhe deputetët/et e Kuvendit.",
+    "variations": [
+      "Pushteti qendror"
+    ],
+    "id": "gl113",
+    "emoji": ""
+  },
+  "reduktim": {
+    "word": "Reduktim",
+    "definition": "zvogëlim, pakësim.",
+    "variations": [
+      "Reduktim"
+    ],
+    "id": "gl114",
+    "emoji": ""
+  },
+  "riciklim": {
+    "word": "Riciklim",
+    "definition": "përpunim i mbeturinave.",
+    "variations": [
+      "Riciklim"
+    ],
+    "id": "gl115",
+    "emoji": ""
+  },
+  "ripërdorim": {
+    "word": "Ripërdorim",
+    "definition": "përdorim i mbeturinave.",
+    "variations": [
+      "Ripërdorim"
+    ],
+    "id": "gl116",
+    "emoji": ""
+  },
+  "sazan": {
+    "word": "Sazan",
+    "definition": "ishull në Vlorë.",
+    "variations": [
+      "Sazan"
+    ],
+    "id": "gl117",
+    "emoji": ""
+  },
+  "sensibilizim": {
+    "word": "Sensibilizim",
+    "definition": "të ngresh vetëdijen për një çështje, t’i bësh njerëzit të reagojnë për një çështje.",
+    "variations": [
+      "Sensibilizim"
+    ],
+    "id": "gl118",
+    "emoji": ""
+  },
+  "tirqit": {
+    "word": "Tirqit",
+    "definition": "pantallona për burra, të punuara prej leshit (veshje tradicionale).",
+    "variations": [
+      "Tirqit"
+    ],
+    "id": "gl120",
+    "emoji": ""
+  },
+  "zejtar": {
+    "word": "Zejtar",
+    "definition": "mjeshtër; njeriu që punon një zeje.",
+    "variations": [
+      "Zejtar"
+    ],
+    "id": "gl122",
+    "emoji": ""
+  },
+  "zhvillim turistik": {
+    "word": "Zhvillim turistik",
+    "definition": "zhvillim i një vendi të caktuar me qëllim që të tërheqë vizitorë.",
+    "variations": [
+      "Zhvillim turistik"
+    ],
+    "id": "gl123",
+    "emoji": ""
   }
 }

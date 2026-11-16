@@ -154,6 +154,20 @@
     "level": 1
   },
   {
+    "section_id": "pg015_sec002",
+    "href": "pg015_sec002.html",
+    "title": "Rregullat dhe ligjet",
+    "chapter_id": "pg015_n0014",
+    "level": 2
+  },
+  {
+    "section_id": "pg015_sec003",
+    "href": "pg015_sec003.html",
+    "title": "Zakonet",
+    "chapter_id": "pg015_n0026",
+    "level": 2
+  },
+  {
     "section_id": "pg016_sec001",
     "href": "pg016_sec001.html",
     "title": "Pyetje për ty",
@@ -271,5 +285,1461 @@
     "title": "Sot, kush ka të drejtë trashëgimie në mënyrë të barabartë?",
     "chapter_id": "qz003_que",
     "level": 2
+  },
+  {
+    "section_id": "pg021_sec001",
+    "href": "pg021_sec001.html",
+    "title": "Kushtetuta - ligji themelor i një shteti",
+    "chapter_id": "pg021_b005",
+    "level": 1
+  },
+  {
+    "section_id": "pg021_sec002",
+    "href": "pg021_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg021_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg021_sec003",
+    "href": "pg021_sec003.html",
+    "title": "Kushtetuta - ligji themelor i një shteti",
+    "chapter_id": "pg021_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec001",
+    "href": "pg022_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg022_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec002",
+    "href": "pg022_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg022_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec003",
+    "href": "pg022_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg022_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg022_sec004",
+    "href": "pg022_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg022_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg023_sec001",
+    "href": "pg023_sec001.html",
+    "title": "Provoje veten",
+    "chapter_id": "pg023_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg024_sec001",
+    "href": "pg024_sec001.html",
+    "title": "Jemi të barabartë në familje",
+    "chapter_id": "pg024_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg024_sec002",
+    "href": "pg024_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg024_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg024_sec003",
+    "href": "pg024_sec003.html",
+    "title": "Jemi të barabartë në familje",
+    "chapter_id": "pg024_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec001",
+    "href": "pg025_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg025_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec002",
+    "href": "pg025_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg025_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec003",
+    "href": "pg025_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg025_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg025_sec004",
+    "href": "pg025_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg025_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg026_sec001",
+    "href": "pg026_sec001.html",
+    "title": "Rolet në familje",
+    "chapter_id": "pg026_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg026_sec002",
+    "href": "pg026_sec002.html",
+    "title": "Përgjegjësitë e mia",
+    "chapter_id": "pg026_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg026_sec003",
+    "href": "pg026_sec003.html",
+    "title": "Shkruaj dy fjali",
+    "chapter_id": "pg026_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg027_sec001",
+    "href": "pg027_sec001.html",
+    "title": "Të barabartë në shkollë dhe në shoqëri",
+    "chapter_id": "pg027_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg027_sec002",
+    "href": "pg027_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg027_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg027_sec003",
+    "href": "pg027_sec003.html",
+    "title": "Të barabartë në shkollë dhe në shoqëri",
+    "chapter_id": "pg027_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg027_sec004",
+    "href": "pg027_sec004.html",
+    "title": "Diskuto",
+    "chapter_id": "pg027_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec001",
+    "href": "pg028_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg028_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec002",
+    "href": "pg028_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg028_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg028_sec003",
+    "href": "pg028_sec003.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg028_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg029_sec001",
+    "href": "pg029_sec001.html",
+    "title": "Të drejtat në shkollë dhe shoqëri",
+    "chapter_id": "pg029_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg029_sec002",
+    "href": "pg029_sec002.html",
+    "title": "Fjalë për barazinë",
+    "chapter_id": "pg029_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg029_sec003",
+    "href": "pg029_sec003.html",
+    "title": "Krijo një fletëpalosje",
+    "chapter_id": "pg029_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg030_sec001",
+    "href": "pg030_sec001.html",
+    "title": "Vendosim së bashku në familje",
+    "chapter_id": "pg030_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg030_sec002",
+    "href": "pg030_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg030_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg030_sec003",
+    "href": "pg030_sec003.html",
+    "title": "Vendosim së bashku në familje",
+    "chapter_id": "pg030_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg031_sec001",
+    "href": "pg031_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg031_b005",
+    "level": 2
+  },
+  {
+    "section_id": "pg031_sec002",
+    "href": "pg031_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg031_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg031_sec003",
+    "href": "pg031_sec003.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg031_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec001",
+    "href": "pg032_sec001.html",
+    "title": "Fjala VENDIMMARRJE",
+    "chapter_id": "pg032_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec002",
+    "href": "pg032_sec002.html",
+    "title": "Kush vendos?",
+    "chapter_id": "pg032_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg032_sec003",
+    "href": "pg032_sec003.html",
+    "title": "Kontributi im",
+    "chapter_id": "pg032_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg033_sec001",
+    "href": "pg033_sec001.html",
+    "title": "Vendosim së bashku në klasë dhe në shkollë",
+    "chapter_id": "pg033_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg033_sec002",
+    "href": "pg033_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg033_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg033_sec003",
+    "href": "pg033_sec003.html",
+    "title": "Vendosim së bashku në klasë dhe në shkollë",
+    "chapter_id": "pg033_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg034_sec001",
+    "href": "pg034_sec001.html",
+    "title": "Diskuto",
+    "chapter_id": "pg034_b007",
+    "level": 2
+  },
+  {
+    "section_id": "pg034_sec002",
+    "href": "pg034_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg034_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg034_sec003",
+    "href": "pg034_sec003.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg034_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg034_sec004",
+    "href": "pg034_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg034_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec001",
+    "href": "pg035_sec001.html",
+    "title": "Cilësitë e kryetarit të klasës",
+    "chapter_id": "pg035_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec002",
+    "href": "pg035_sec002.html",
+    "title": "Pikat e forta dhe përmirësimet",
+    "chapter_id": "pg035_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg035_sec003",
+    "href": "pg035_sec003.html",
+    "title": "Intervista dhe idetë e tua",
+    "chapter_id": "pg035_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg036_sec001",
+    "href": "pg036_sec001.html",
+    "title": "Institucionet lokale",
+    "chapter_id": "pg036_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg036_sec002",
+    "href": "pg036_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg036_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg036_sec003",
+    "href": "pg036_sec003.html",
+    "title": "Institucionet lokale",
+    "chapter_id": "pg036_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec001",
+    "href": "pg037_sec001.html",
+    "title": "Diskuto",
+    "chapter_id": "pg037_b010",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec002",
+    "href": "pg037_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg037_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec003",
+    "href": "pg037_sec003.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg037_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg037_sec004",
+    "href": "pg037_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg037_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg038_sec001",
+    "href": "pg038_sec001.html",
+    "title": "Provoje veten",
+    "chapter_id": "pg038_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg039_sec001",
+    "href": "pg039_sec001.html",
+    "title": "Qeveria dhe parlamenti",
+    "chapter_id": "pg039_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg039_sec002",
+    "href": "pg039_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg039_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg039_sec003",
+    "href": "pg039_sec003.html",
+    "title": "Qeveria dhe parlamenti",
+    "chapter_id": "pg039_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg040_sec001",
+    "href": "pg040_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg040_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg040_sec002",
+    "href": "pg040_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg040_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg040_sec003",
+    "href": "pg040_sec003.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg040_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec001",
+    "href": "pg041_sec001.html",
+    "title": "Përfaqësuesit e shtetit",
+    "chapter_id": "pg041_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec002",
+    "href": "pg041_sec002.html",
+    "title": "Po të ishe kryeministër",
+    "chapter_id": "pg041_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec003",
+    "href": "pg041_sec003.html",
+    "title": "Fjala PARLAMENTI",
+    "chapter_id": "pg041_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg041_sec004",
+    "href": "pg041_sec004.html",
+    "title": "Vetëvlerësim",
+    "chapter_id": "pg041_sec004_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg042_sec001",
+    "href": "pg042_sec001.html",
+    "title": "Organizimet kulturore në vendin tonë dhe në botë",
+    "chapter_id": "pg042_b001",
+    "level": 1
+  },
+  {
+    "section_id": "pg043_sec001",
+    "href": "pg043_sec001.html",
+    "title": "Organizimet kulturore në vendin tonë dhe në botë",
+    "chapter_id": "pg043_sec001_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg044_sec001",
+    "href": "pg044_sec001.html",
+    "title": "Organizimet kulturore në vendin tonë dhe në botë",
+    "chapter_id": "pg044_sec001_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg044_sec002",
+    "href": "pg044_sec002.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg044_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg045_sec001",
+    "href": "pg045_sec001.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg045_sec001_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg045_sec002",
+    "href": "pg045_sec002.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg045_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec001",
+    "href": "pg046_sec001.html",
+    "title": "Një shfaqje teatrale",
+    "chapter_id": "pg046_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec002",
+    "href": "pg046_sec002.html",
+    "title": "Krahaso dy ngjarje",
+    "chapter_id": "pg046_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg046_sec003",
+    "href": "pg046_sec003.html",
+    "title": "Një film që ke parë",
+    "chapter_id": "pg046_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg047_sec001",
+    "href": "pg047_sec001.html",
+    "title": "Monumentet natyrore",
+    "chapter_id": "pg047_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg047_sec002",
+    "href": "pg047_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg047_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg047_sec003",
+    "href": "pg047_sec003.html",
+    "title": "Monumentet natyrore",
+    "chapter_id": "pg047_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg048_sec001",
+    "href": "pg048_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg048_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg048_sec002",
+    "href": "pg048_sec002.html",
+    "title": "Detyrë",
+    "chapter_id": "pg048_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg049_sec001",
+    "href": "pg049_sec001.html",
+    "title": "Monumentet natyrore",
+    "chapter_id": "pg049_sec001_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg049_sec002",
+    "href": "pg049_sec002.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg049_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg049_sec003",
+    "href": "pg049_sec003.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg049_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg049_sec004",
+    "href": "pg049_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg049_b002",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec001",
+    "href": "pg050_sec001.html",
+    "title": "E saktë apo e gabuar?",
+    "chapter_id": "pg050_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec002",
+    "href": "pg050_sec002.html",
+    "title": "Pesë veçori të Drinit të Bardhë",
+    "chapter_id": "pg050_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg050_sec003",
+    "href": "pg050_sec003.html",
+    "title": "Çfarë mësove nga vizita?",
+    "chapter_id": "pg050_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg051_sec001",
+    "href": "pg051_sec001.html",
+    "title": "Artizanatet dikur dhe sot",
+    "chapter_id": "pg051_b003",
+    "level": 1
+  },
+  {
+    "section_id": "pg051_sec002",
+    "href": "pg051_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg051_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg051_sec003",
+    "href": "pg051_sec003.html",
+    "title": "Artizanatet dikur dhe sot",
+    "chapter_id": "pg051_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg051_sec004",
+    "href": "pg051_sec004.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg051_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec001",
+    "href": "pg052_sec001.html",
+    "title": "Artizanatet dikur dhe sot",
+    "chapter_id": "pg052_sec001_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec002",
+    "href": "pg052_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg052_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec003",
+    "href": "pg052_sec003.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg052_b007",
+    "level": 2
+  },
+  {
+    "section_id": "pg052_sec004",
+    "href": "pg052_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg052_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec001",
+    "href": "pg053_sec001.html",
+    "title": "Emërto veshjet tradicionale",
+    "chapter_id": "pg053_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec002",
+    "href": "pg053_sec002.html",
+    "title": "Bisedo me gjyshërit",
+    "chapter_id": "pg053_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg053_sec003",
+    "href": "pg053_sec003.html",
+    "title": "Artizanati dikur dhe sot",
+    "chapter_id": "pg053_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec001",
+    "href": "pg054_sec001.html",
+    "title": "Panairi me artizanate",
+    "chapter_id": "pg054_b006",
+    "level": 1
+  },
+  {
+    "section_id": "pg054_sec002",
+    "href": "pg054_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg054_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg054_sec003",
+    "href": "pg054_sec003.html",
+    "title": "Panairi me artizanate",
+    "chapter_id": "pg054_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec001",
+    "href": "pg055_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg055_b007",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec002",
+    "href": "pg055_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg055_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec003",
+    "href": "pg055_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg055_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg055_sec004",
+    "href": "pg055_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg055_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg056_sec001",
+    "href": "pg056_sec001.html",
+    "title": "Provoje veten",
+    "chapter_id": "pg056_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec001",
+    "href": "pg057_sec001.html",
+    "title": "Prodhimet ushqimore të vendit tonë",
+    "chapter_id": "pg057_b005",
+    "level": 1
+  },
+  {
+    "section_id": "pg057_sec002",
+    "href": "pg057_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg057_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec003",
+    "href": "pg057_sec003.html",
+    "title": "Prodhimet ushqimore të vendit tonë",
+    "chapter_id": "pg057_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg057_sec004",
+    "href": "pg057_sec004.html",
+    "title": "Kujdes!",
+    "chapter_id": "pg057_b007",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec001",
+    "href": "pg058_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg058_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg058_sec002",
+    "href": "pg058_sec002.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg058_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec001",
+    "href": "pg059_sec001.html",
+    "title": "Ku prodhohen?",
+    "chapter_id": "pg059_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec002",
+    "href": "pg059_sec002.html",
+    "title": "Prodhimet vendore",
+    "chapter_id": "pg059_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg059_sec003",
+    "href": "pg059_sec003.html",
+    "title": "Krijo një produkt",
+    "chapter_id": "pg059_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg060_sec001",
+    "href": "pg060_sec001.html",
+    "title": "Muzeu - ruajtja e vlerave kulturore e natyrore",
+    "chapter_id": "pg060_b003",
+    "level": 1
+  },
+  {
+    "section_id": "pg060_sec002",
+    "href": "pg060_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg060_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec001",
+    "href": "pg061_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg061_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec002",
+    "href": "pg061_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg061_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec003",
+    "href": "pg061_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg061_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg061_sec004",
+    "href": "pg061_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg061_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg062_sec001",
+    "href": "pg062_sec001.html",
+    "title": "Muzetë që njeh",
+    "chapter_id": "pg062_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg062_sec002",
+    "href": "pg062_sec002.html",
+    "title": "Krahaso muzetë",
+    "chapter_id": "pg062_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg062_sec003",
+    "href": "pg062_sec003.html",
+    "title": "Dy objekte nga muzeu",
+    "chapter_id": "pg062_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec001",
+    "href": "pg063_sec001.html",
+    "title": "Rregullat në mjedise publike",
+    "chapter_id": "pg063_b003",
+    "level": 1
+  },
+  {
+    "section_id": "pg063_sec002",
+    "href": "pg063_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg063_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg063_sec003",
+    "href": "pg063_sec003.html",
+    "title": "Provoje veten",
+    "chapter_id": "pg063_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg064_sec001",
+    "href": "pg064_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg064_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg064_sec002",
+    "href": "pg064_sec002.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg064_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg065_sec001",
+    "href": "pg065_sec001.html",
+    "title": "Sjellja në vende publike",
+    "chapter_id": "pg065_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg065_sec002",
+    "href": "pg065_sec002.html",
+    "title": "Këshilla për kujdesin",
+    "chapter_id": "pg065_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg066_sec001",
+    "href": "pg066_sec001.html",
+    "title": "Transporti publik dhe rëndësia e tij",
+    "chapter_id": "pg066_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg066_sec002",
+    "href": "pg066_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg066_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg066_sec003",
+    "href": "pg066_sec003.html",
+    "title": "Transporti publik dhe rëndësia e tij",
+    "chapter_id": "pg066_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg067_sec001",
+    "href": "pg067_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg067_b005",
+    "level": 2
+  },
+  {
+    "section_id": "pg067_sec002",
+    "href": "pg067_sec002.html",
+    "title": "Këshillë",
+    "chapter_id": "pg067_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg067_sec003",
+    "href": "pg067_sec003.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg067_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg068_sec001",
+    "href": "pg068_sec001.html",
+    "title": "Transporti në të ardhmen",
+    "chapter_id": "pg068_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg068_sec002",
+    "href": "pg068_sec002.html",
+    "title": "Transporti dhe mjedisi",
+    "chapter_id": "pg068_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg069_sec001",
+    "href": "pg069_sec001.html",
+    "title": "Sëmundjet dhe vaksinimi",
+    "chapter_id": "pg069_b003",
+    "level": 1
+  },
+  {
+    "section_id": "pg069_sec002",
+    "href": "pg069_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg069_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg069_sec003",
+    "href": "pg069_sec003.html",
+    "title": "Sëmundjet dhe vaksinimi",
+    "chapter_id": "pg069_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec001",
+    "href": "pg070_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg070_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec002",
+    "href": "pg070_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg070_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec003",
+    "href": "pg070_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg070_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg070_sec004",
+    "href": "pg070_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg070_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg071_sec001",
+    "href": "pg071_sec001.html",
+    "title": "Kartela e vaksinimit",
+    "chapter_id": "pg071_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg071_sec002",
+    "href": "pg071_sec002.html",
+    "title": "Bisedë me prindin ose kujdestarin",
+    "chapter_id": "pg071_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg072_sec001",
+    "href": "pg072_sec001.html",
+    "title": "Informimi dhe kujdesi në pandemi",
+    "chapter_id": "pg072_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg072_sec002",
+    "href": "pg072_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg072_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg072_sec003",
+    "href": "pg072_sec003.html",
+    "title": "Informimi dhe kujdesi në pandemi",
+    "chapter_id": "pg072_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg073_sec001",
+    "href": "pg073_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg073_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg073_sec002",
+    "href": "pg073_sec002.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg073_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg074_sec001",
+    "href": "pg074_sec001.html",
+    "title": "Shpjego pandeminë",
+    "chapter_id": "pg074_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg074_sec002",
+    "href": "pg074_sec002.html",
+    "title": "Krijo një fletëpalosje",
+    "chapter_id": "pg074_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg075_sec001",
+    "href": "pg075_sec001.html",
+    "title": "Shfrytëzimi i pasurive natyrore",
+    "chapter_id": "pg075_b005",
+    "level": 1
+  },
+  {
+    "section_id": "pg075_sec002",
+    "href": "pg075_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg075_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg075_sec003",
+    "href": "pg075_sec003.html",
+    "title": "Shfrytëzimi i pasurive natyrore",
+    "chapter_id": "pg075_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg076_sec001",
+    "href": "pg076_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg076_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg076_sec002",
+    "href": "pg076_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg076_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg076_sec003",
+    "href": "pg076_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg076_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg076_sec004",
+    "href": "pg076_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg076_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg077_sec001",
+    "href": "pg077_sec001.html",
+    "title": "Pemët",
+    "chapter_id": "pg077_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg077_sec002",
+    "href": "pg077_sec002.html",
+    "title": "Energjia diellore",
+    "chapter_id": "pg077_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg077_sec003",
+    "href": "pg077_sec003.html",
+    "title": "Ruajtja e ujit",
+    "chapter_id": "pg077_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg078_sec001",
+    "href": "pg078_sec001.html",
+    "title": "Kujdesi për ujin dhe energjinë elektrike",
+    "chapter_id": "pg078_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg078_sec002",
+    "href": "pg078_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg078_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg078_sec003",
+    "href": "pg078_sec003.html",
+    "title": "Kujdesi për ujin dhe energjinë elektrike",
+    "chapter_id": "pg078_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec001",
+    "href": "pg079_sec001.html",
+    "title": "Diskuto",
+    "chapter_id": "pg079_b010",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec002",
+    "href": "pg079_sec002.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg079_b004",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec003",
+    "href": "pg079_sec003.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg079_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg079_sec004",
+    "href": "pg079_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg079_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg080_sec001",
+    "href": "pg080_sec001.html",
+    "title": "Kursimi i energjisë",
+    "chapter_id": "pg080_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg080_sec002",
+    "href": "pg080_sec002.html",
+    "title": "Kursimi i ujit",
+    "chapter_id": "pg080_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg080_sec003",
+    "href": "pg080_sec003.html",
+    "title": "Gjej një zgjidhje",
+    "chapter_id": "pg080_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg081_sec001",
+    "href": "pg081_sec001.html",
+    "title": "Pyjet dhe tokat pjellore",
+    "chapter_id": "pg081_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg081_sec002",
+    "href": "pg081_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg081_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg081_sec003",
+    "href": "pg081_sec003.html",
+    "title": "Pyjet dhe tokat pjellore",
+    "chapter_id": "pg081_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg081_sec004",
+    "href": "pg081_sec004.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg081_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg081_sec005",
+    "href": "pg081_sec005.html",
+    "title": "Pyjet dhe tokat pjellore",
+    "chapter_id": "pg081_sec005_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg082_sec001",
+    "href": "pg082_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg082_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg082_sec002",
+    "href": "pg082_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg082_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg082_sec003",
+    "href": "pg082_sec003.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg082_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg083_sec001",
+    "href": "pg083_sec001.html",
+    "title": "Mbrojtja e tokës",
+    "chapter_id": "pg083_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg083_sec002",
+    "href": "pg083_sec002.html",
+    "title": "Çfarë i dëmton pyjet?",
+    "chapter_id": "pg083_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg083_sec003",
+    "href": "pg083_sec003.html",
+    "title": "Hulumto për pyjet",
+    "chapter_id": "pg083_sec003_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg084_sec001",
+    "href": "pg084_sec001.html",
+    "title": "“Ne për natyrën, natyra për ne“",
+    "chapter_id": "pg084_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg084_sec002",
+    "href": "pg084_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg084_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec001",
+    "href": "pg085_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg085_b006",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec002",
+    "href": "pg085_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg085_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec003",
+    "href": "pg085_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg085_b003",
+    "level": 2
+  },
+  {
+    "section_id": "pg085_sec004",
+    "href": "pg085_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg085_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg086_sec001",
+    "href": "pg086_sec001.html",
+    "title": "Si kujdesesh për natyrën?",
+    "chapter_id": "pg086_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg086_sec002",
+    "href": "pg086_sec002.html",
+    "title": "Një mjedis më i pastër",
+    "chapter_id": "pg086_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg087_sec001",
+    "href": "pg087_sec001.html",
+    "title": "Riciklimi i mbeturinave",
+    "chapter_id": "pg087_b004",
+    "level": 1
+  },
+  {
+    "section_id": "pg087_sec002",
+    "href": "pg087_sec002.html",
+    "title": "Shpreh mendimin tënd",
+    "chapter_id": "pg087_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg087_sec003",
+    "href": "pg087_sec003.html",
+    "title": "Riciklimi i mbeturinave",
+    "chapter_id": "pg087_sec003_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec001",
+    "href": "pg088_sec001.html",
+    "title": "Pyetje për ty",
+    "chapter_id": "pg088_b008",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec002",
+    "href": "pg088_sec002.html",
+    "title": "Përdor internetin",
+    "chapter_id": "pg088_sec002_title",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec003",
+    "href": "pg088_sec003.html",
+    "title": "Diskuto",
+    "chapter_id": "pg088_b000",
+    "level": 2
+  },
+  {
+    "section_id": "pg088_sec004",
+    "href": "pg088_sec004.html",
+    "title": "Thello dijet",
+    "chapter_id": "pg088_b002",
+    "level": 2
+  },
+  {
+    "section_id": "pg089_sec001",
+    "href": "pg089_sec001.html",
+    "title": "Si funksionon riciklimi?",
+    "chapter_id": "pg089_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg089_sec002",
+    "href": "pg089_sec002.html",
+    "title": "Krijo me materiale të ricikluara",
+    "chapter_id": "pg089_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg090_sec001",
+    "href": "pg090_sec001.html",
+    "title": "Përsëritje: Pyetjet 1–3",
+    "chapter_id": "pg090_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg090_sec002",
+    "href": "pg090_sec002.html",
+    "title": "Përsëritje: Pyetjet 4–6",
+    "chapter_id": "pg090_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg091_sec001",
+    "href": "pg091_sec001.html",
+    "title": "Përsëritje: Pyetjet 7–8",
+    "chapter_id": "pg091_sec001_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg091_sec002",
+    "href": "pg091_sec002.html",
+    "title": "Përsëritje: Pyetjet 9–10",
+    "chapter_id": "pg091_sec002_task",
+    "level": 2
+  },
+  {
+    "section_id": "pg092_sec001",
+    "href": "pg092_sec001.html",
+    "title": "Fjalorthi",
+    "chapter_id": "pg092_b002",
+    "level": 1
+  },
+  {
+    "section_id": "pg093_sec001",
+    "href": "pg093_sec001.html",
+    "title": "Burimet e fotografive",
+    "chapter_id": "pg093_b037",
+    "level": 1
   }
 ]

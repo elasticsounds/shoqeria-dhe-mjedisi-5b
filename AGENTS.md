@@ -8,7 +8,7 @@ This document describes the structure of this Accessible Digital Textbook (ADT) 
 
 - **Source language**: `sq`
 - **Available languages in this bundle**: `sq`, `en`
-- **Total pages**: 39
+- **Total reader sections**: 249 (41 sections for source pages 1–20 and 208 for pages 21–93)
 - **Quizzes**: yes
 - **Glossary**: yes
 
@@ -432,3 +432,9 @@ Update both:
 - **`assets/fonts/`** — font files
 - **`assets/sounds/`** — UI feedback sounds
 - **`content/tailwind_output.css`** — compiled from all HTML files; if you add new Tailwind classes to HTML, this file must be regenerated
+
+## Full-book continuation
+
+Physical PDF pages 1–94 are accounted for; pages 4 and 94 are blank. Pages 21–93 are bilingual in Albanian and English. Their workbook interactions are self-contained `activity_custom_workbook` sections with inline registration. Editable sources, asset provenance and verification reports are in the parent full-book project. All narration uses Gemini 3.8 Flash TTS with Kore in both languages. The reader estimates word highlighting where precise timecodes are absent.
+
+Sign-language recordings are available through the reader controls on the 36 mapped sections. Assignments use stable section IDs from the first 39-section reader.
